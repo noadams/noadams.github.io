@@ -1,18 +1,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/coffee</loc>
+    <loc>https://quartz.jzhao.xyz/Coffee</loc>
     <lastmod>2024-07-04T18:16:22.312Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
+    <loc>https://quartz.jzhao.xyz/Index</loc>
     <lastmod>2024-07-04T17:02:30.224Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/sleep</loc>
+    <loc>https://quartz.jzhao.xyz/Sleep</loc>
     <lastmod>2024-07-04T16:48:24.683Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/things-to-write-about</loc>
+    <loc>https://quartz.jzhao.xyz/Things-to-Write-About-(expanded)</loc>
     <lastmod>2024-07-04T05:25:24.502Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/thinking-about-doomsday</loc>
+    <loc>https://quartz.jzhao.xyz/Thinking-About-Doomsday</loc>
     <lastmod>2024-07-04T16:40:18.749Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Water</loc>
+    <lastmod>2024-07-04T17:53:57.317Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Why-Do-We-Exist</loc>
+    <lastmod>2024-07-04T19:24:50.578Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/todo/appreciation</loc>
     <lastmod>2024-07-04T18:12:59.745Z</lastmod>
@@ -25,7 +31,4 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/todo/tea</loc>
     <lastmod>2024-07-04T18:16:16.379Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/water</loc>
-    <lastmod>2024-07-04T17:53:57.317Z</lastmod>
   </url></urlset>
